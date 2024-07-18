@@ -117,7 +117,7 @@ This repository contains projects and exercises as part of the ALX backend softw
   - [C](#C)
     - [simple_shell](https://github.com/SamuelAmihere/simple_shell)
     - [printf](https://github.com/SamuelAmihere/printf)
-    - [monty](#https://github.com/SamuelAmihere/monty)
+    - [monty](https://github.com/SamuelAmihere/monty)
   - [Python](#Python)
     - [TripNYC](https://github.com/SamuelAmihere/TripNYC)
     - [LifeLift_v1](https://github.com/SamuelAmihere/LifeLift_v1)
