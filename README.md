@@ -2,7 +2,6 @@
 
 This repository contains projects and exercises as part of the ALX backend software engineering track. The projects cover various backend concepts including pagination, caching, internationalization (i18n), and implementing a queuing system in JavaScript.
 
-## Projects
 ## Table of Contents
 
 - [low_level_programming in C](#alx-low_level_programming)
